@@ -1,0 +1,7 @@
+name: BattleRoyale
+version: '${project.version}'
+main: kr.dyoh1379.battleroyale.Main
+api-version: 1.19
+commands:
+  battle:
+    permission: battleroyale.command
